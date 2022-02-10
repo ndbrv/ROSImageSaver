@@ -1,2 +1,2 @@
 # Data Collection
-Collection of image and pose data with Turtlebot
+Python script for collection of image and pose data with Turtlebot
